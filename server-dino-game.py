@@ -135,7 +135,7 @@ player_score = 0
 game_over = False
 obstacle_timer = 0
 obstacle_spawn = False
-obstacle_cooldown = 2000
+obstacle_cooldown = 3000
 
 # Surfaces
 ground = pygame.image.load("assets/ground.png")
